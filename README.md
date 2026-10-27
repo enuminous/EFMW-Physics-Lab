@@ -1,5 +1,30 @@
 # Standard Model + EFMW Physics Laboratory
 
+<!-- ENUMINOUS-UNIFIED-NAV:START -->
+## Repository navigation
+
+**eNuminous network:** [All public repositories](https://github.com/enuminous/EFMW/blob/main/REPOSITORY_NAVIGATION.md) · [EFMW](https://github.com/enuminous/EFMW) · [102 equations](https://github.com/enuminous/Monolithic_102_EFMW) · [Frozen Lean](https://github.com/enuminous/Monolithic-102-Zoo-Lean4) · [Zoo](https://github.com/enuminous/Tortoise) · [Papers](https://github.com/enuminous/papers) · [Quantum geometry](https://github.com/enuminous/Base888-Quantum-Geometry)
+
+**This project:** [Repository home](https://github.com/enuminous/EFMW-Physics-Lab) · [Subject index](https://github.com/enuminous/EFMW/blob/main/REPOSITORY_NAVIGATION.md#fundamental-physics-cosmology-and-quantum-geometry)
+
+<details open>
+<summary><strong>On this page</strong></summary>
+
+- [Launch](#launch)
+- [What it does](#what-it-does)
+- [First experiment](#first-experiment)
+- [Files](#files)
+- [EFMW source context](#efmw-source-context)
+
+
+</details>
+
+**Related repositories:** [Higgs-Gauge-Lab](https://github.com/enuminous/Higgs-Gauge-Lab) · [Standard-Model-Reduction](https://github.com/enuminous/Standard-Model-Reduction) · [Quantum-Gravity](https://github.com/enuminous/Quantum-Gravity) · [QST](https://github.com/enuminous/QST) · [Base888-Quantum-Geometry](https://github.com/enuminous/Base888-Quantum-Geometry) · [EFMW](https://github.com/enuminous/EFMW) · [papers](https://github.com/enuminous/papers)
+
+> **Evidence boundary:** A link between projects is navigation, not an assertion of proven equivalence, experimental validation, or shared authorship. See each repository’s own status and review notes.
+<!-- ENUMINOUS-UNIFIED-NAV:END -->
+
+
 An **offline, single-file, GitHub Pages-ready** classical lattice field research laboratory. The working application is **`index.html`**, with no external dependencies.
 
 ## Launch
